@@ -36,7 +36,7 @@ Olá! Me chamo Guilherme Antonio Couto, tenho 19 anos e sou natural de Minas Ger
 
 ### 🌎 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeACouto-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GuilhermeACouto-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-antônio-5341512a5)  
 [![GitHub](https://img.shields.io/badge/GitHub-GuilhermeACouto-black?style=for-the-badge&logo=github)](https://github.com/GuilhermeACouto)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Comigo-green?style=for-the-badge&logo=whatsapp)](https://wa.me/37998551654)  
 
