@@ -1,4 +1,4 @@
-## 👨‍💻 Guilherme Antonio Couto
+
 
 **`Estudante de Ciência da Computação | Desenvolvedor em Formação`**
 
